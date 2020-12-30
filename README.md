@@ -1,5 +1,5 @@
 # StemThicknessVisualizer
-Processing tool to analyze the stem thickness of opentype font families.
+Processing tool to analyze the stem thickness of opentype font families (sans serif, not cursive only).
 
 This tool was made to visualize how the stems of opentype font families grow.
 The script uses fonttools ttx to generate an xml file and read the sidebearing and width values of the dotlessi.
