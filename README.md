@@ -10,7 +10,6 @@ you need:
 - to have installed fonttools
 - absolute path of your ttx application from fonttools
 - a directory called "fonts" in the directory where the stemThickness Script is located
-- subdirectories in the folder "fonts" - your font families you want to analyze. In that direcoty you can only have .otf files other files will make trouble.
-  StemThicknessVisualizer produces .ttx files of your opentype fonts, these files are the only files next to the opentype itself that are allowed to be in the
-  directory of your font family directory
+- subdirectories in the folder "fonts" - your font families you want to analyze. In those subdirectories you can only have .otf files.
+  Other files will make trouble. StemThicknessVisualizer produces .ttx files of your opentype fonts, these files are the only files, next to the opentype itself that are allowed to be in the directory of your font family directory.
 - to know what you are analyzing: only sans serif and not cursive fonts can be visualized.
